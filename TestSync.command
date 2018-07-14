@@ -16,4 +16,6 @@ echo "WTF"
 
 echo "edit in text"
 
-echo "ediot in text2"
+echo "edit in text2"
+
+echo "edit in GitHub"
