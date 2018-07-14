@@ -15,3 +15,5 @@ osascript -e 'display dialog "Body of dialog" with title "Yo, it worked!"'
 echo "WTF"
 
 echo "edit in text"
+
+echo "ediot in text2"
